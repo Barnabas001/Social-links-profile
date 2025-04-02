@@ -55,7 +55,7 @@ button {
   cursor: pointer;
 }
 
-.buttons:hover {
+.button:hover {
     background-color: rgb(131, 189, 15);
     color: hsl(0, 0%, 8%);
 }
